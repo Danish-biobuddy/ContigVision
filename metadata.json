@@ -1,0 +1,6 @@
+{
+  "name": "ContigVision",
+  "description": "De Novo Assembly & Contig Visualizer for bioinformaticians and wet-lab researchers to audit assemblies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

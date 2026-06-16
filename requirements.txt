@@ -1,0 +1,14 @@
+# ==========================================================
+# ContigVision: Python Reference Dependencies specifications
+# ==========================================================
+
+# Core Bioinformatics & Computational Engines
+biopython>=1.81             # File streaming and IUPAC parsing
+screed>=1.1.2               # Ultra-fast FASTA/FASTQ sequence indexes
+numpy>=1.24.2               # Vectorized base-skew matrices
+pandas>=2.0.1               # Cumulative dataframe aggregation
+
+# Graphic Visualizations & Dashboard Layout
+plotly>=5.14.0              # Dynamic length distribution charts and cumulative plots
+streamlit>=1.25.0           # Presentation layer (if porting frontend to Streamlit)
+jinja2>=3.1.2               # Document structures
